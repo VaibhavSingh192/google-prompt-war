@@ -1,4 +1,4 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "."
+  "framework": "nextjs",
+  "regions": ["bom1"]
 }
